@@ -1,0 +1,2 @@
+const QUOTE_FOLDER_ID = "";
+const TEMPLATE_FACILITATION = "";
