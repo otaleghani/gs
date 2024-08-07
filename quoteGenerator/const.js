@@ -1,2 +1,4 @@
 const QUOTE_FOLDER_ID = "";
 const TEMPLATE_FACILITATION = "";
+const TEMPLATE_TERMS = "";
+const TEMPLATE_QUOTE = "";
